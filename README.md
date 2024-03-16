@@ -12,6 +12,12 @@ A new Flutter project.
 
 ![WhatsApp Image 2024-03-17 at 01 13 06_adc4e73f](https://github.com/kiransatdive/News_App_Flutter/assets/98806225/e8e29810-ad1a-4ed3-b92a-dd79008c9f31)
 
+## Run Project
+## Flutter clean
+## flutter pub get
+## flutter run
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
